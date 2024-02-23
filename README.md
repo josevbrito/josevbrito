@@ -1,4 +1,4 @@
-## Olá!. Eu sou o José Brito! 🐯
+## Olá! Eu sou o José Brito! 🐯
 
 ![José Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=dark)
 
