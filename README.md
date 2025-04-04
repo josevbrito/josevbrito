@@ -14,21 +14,14 @@ I'm **José**, a passionate **Full-Stack Developer** currently working at the **
 ### 🌟 GitHub Statistics
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=josevbrito&theme=tokyonight" alt="GitHub Streak" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josevbrito&theme=tokyonight&utcOffset=3" alt="Most Active Hours" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&langs_count=10&layout=compact&theme=tokyonight" alt="Top 10 Languages" /></td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&langs_count=10&layout=compact&theme=tokyonight" alt="Top 10 Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josevbrito&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josevbrito&theme=tokyonight" alt="Profile Details"/>
 </p>
+
 
 
 ---
