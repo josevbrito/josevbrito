@@ -1,81 +1,63 @@
-# 👋 Hello, I'm José!
-
-I'm **José**, a passionate **Full-Stack Developer** currently working at the **Department of Health of Maranhão**, Brazil. My focus is on developing innovative systems to solve real-world problems, creating software solutions that drive efficiency and impact in the public health sector.
-
----
-
-## 🚀 My GitHub Highlights
-### 📈 Visitor Counter
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=josevbrito&style=for-the-badge&color=blueviolet&label=VISITORS" alt="GitHub Visitors" />
-</p>
-
-### 🌟 GitHub Statistics
-
+<h1 align="center">Olá, eu sou o José 👋</h1>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&langs_count=10&layout=compact&theme=tokyonight" alt="Top 10 Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josevbrito&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-
-
----
-
-## 🛠️ My Technology Toolbox
-
-<p align="center">Here’s a breakdown of the technologies I use, divided into <strong>Frontend</strong>, <strong>Backend</strong>, <strong>Databases</strong>, and <strong>Data Science/AI</strong>:</p>
-
-### **Frontend Development**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>
-</p>
-
-### **Backend Development**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="60" height="60"/>
-</p>
-
-### **Databases**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>
-</p>
-
-### **Data Science & AI**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>
+  <em>Full-Stack Developer at the Maranhão State Health Department - Transforming ideas into scalable solutions.</em>
 </p>
 
 ---
 
-## 🔭 What I'm Currently Working On
-- **Portal ReACT** – Rede de Aplicação em Ciência e Tecnologia Website.
+## 🧠 Sobre Mim
+
+- 🎯 Apaixonado por resolver problemas reais com tecnologia.
+- 💼 Atuando no setor público com foco em **eficiência digital** e **impacto social**.
+- 📈 Sempre aprendendo: atualmente explorando **Machine Learning** e **arquiteturas de microserviços**.
 
 ---
 
-## 🤝 Let's Collaborate!
-Feel free to connect with me or explore my work. I'm always open to new ideas and collaborations on exciting projects. Reach out through the links below!
+## 🚀 Tech Stack
+
+<div align="center">
+  
+### 🖥️ Frontend  
+<img src="https://skillicons.dev/icons?i=js,react,flutter,bootstrap,html,css" />
+
+### 🔧 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,django,spring" />
+
+### 💾 Databases  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+
+### 🧠 Data & AI  
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  
+</div>
 
 ---
 
-### 🔗 Social Media
-- **GitHub**: [@josevbrito](https://github.com/josevbrito)
-- **LinkedIn**: [@josevbrito](https://www.linkedin.com/in/josevbrito)
+## 📊 GitHub Insights
+
+<div align="center">
+  
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=josevbrito&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&layout=compact&theme=tokyonight)](https://github.com/josevbrito)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=josevbrito&theme=tokyonight&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧪 Em Desenvolvimento
+
+- 🔧 **Portal ReACT** – Aplicações científicas para a comunidade de pesquisa.
+- 🧠 **IA Educacional** – Projeto de microserviços para aprendizagem inteligente.
+
+---
+
+## 🤝 Vamos nos conectar
+
+<p align="center">
+  <a href="https://github.com/josevbrito"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/josevbrito"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
