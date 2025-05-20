@@ -18,10 +18,10 @@
 <div align="center">
   
 ### 🖥️ Frontend  
-<img src="https://skillicons.dev/icons?i=js,react,flutter,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=angular,js,react,flutter" />
 
 ### 🔧 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,django,spring" />
+<img src="https://skillicons.dev/icons?i=nestjs,php,laravel,django,spring" />
 
 ### 💾 Databases  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
@@ -36,9 +36,6 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=josevbrito&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&layout=compact&theme=tokyonight)](https://github.com/josevbrito)
 
