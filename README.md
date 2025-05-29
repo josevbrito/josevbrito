@@ -18,7 +18,7 @@
 <div align="center">
   
 ### 🖥️ Frontend  
-<img src="https://skillicons.dev/icons?i=angular,js,react,flutter" />
+<img src="https://skillicons.dev/icons?i=vue,js,react,flutter" />
 
 ### 🔧 Backend  
 <img src="https://skillicons.dev/icons?i=nestjs,php,laravel,django,spring" />
