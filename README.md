@@ -37,11 +37,16 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&layout=compact&theme=tokyonight)](https://github.com/josevbrito)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&layout=compact&theme=tokyonight&cache_seconds=60&exclude_repo=portfolio-old,readme-test)](https://github.com/josevbrito)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=tokyonight)](https://github.com/josevbrito)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=josevbrito&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/josevbrito)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=josevbrito&theme=tokyonight&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ---
 
