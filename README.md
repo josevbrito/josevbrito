@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o José 👋</h1>
 <p align="center">
-  <em>Full-Stack Developer at the Maranhão State Health Department - Transforming ideas into scalable solutions.</em>
+  <em>Full-Stack Developer and Data Scientist</em>
 </p>
 
 ---
@@ -42,13 +42,6 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=josevbrito&theme=tokyonight&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## 🧪 Em Desenvolvimento
-
-- 🔧 **Portal ReACT** – Aplicações científicas para a comunidade de pesquisa.
-- 🧠 **IA Educacional** – Projeto de microserviços para aprendizagem inteligente.
 
 ---
 
