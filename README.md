@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8c/59/42/8c594289f1953590125aeb7951eca891.gif" alt="Yusuke Urameshi GIF" width="150" align="right">
+  <img src="urameshi.gif" alt="Yusuke Urameshi GIF" width="150" align="right">
   <h1>Olá! 👋 Sou José Brito</h1>
   <p>Desenvolvedor Full-Stack & Cientista de Dados | Apaixonado por tecnologia e impacto social.</p>
 </div>
