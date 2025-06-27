@@ -41,9 +41,10 @@ Atualmente, **focado em aplicar tecnologia para resolver desafios no setor públ
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=tokyonight&count_private=true&layout=compact" height="150"/>
   </a>
   <a href="https://github.com/josevbrito">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevbrito&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=portfolio-old,readme-test&cache_seconds=0" height="150"/>
+    <img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josevbrito&theme=tokyonight" height="150"/>
   </a>
 </div>
+
 
 ---
 
