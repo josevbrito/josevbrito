@@ -1,24 +1,25 @@
 <div align="center">
   <img src="urameshi.gif" alt="Yusuke Urameshi GIF" width="900" style="border-radius: 10px; margin-bottom: 10px;" />
   
-  <h1>Olá! 👋 Sou José Brito</h1>
+  <h1>Hello! 👋 I'm José Brito</h1>
   
   <p>
-    <strong>Desenvolvedor Full-Stack</strong> & <strong>Cientista de Dados</strong><br/>
-    Apaixonado por tecnologia, IA e impacto social.
+    <strong>Full-Stack Developer</strong> & <strong>Data Scientist</strong><br/>
+    Passionate about technology, AI, and social impact.
   </p>
 </div>
 
+---
+
+### 🚀 In Search of Creative Solutions
+
+Currently pursuing a Master’s degree in Computer Science, I'm driven by the challenge of turning ideas into impactful solutions. I'm actively exploring the power of Machine Learning and microservices to build scalable, intelligent, and socially meaningful technologies.
+
+While I'm not a robot 🤖, I do deliver results.
 
 ---
 
-### 🚀 Em Busca de Soluções Criativas
-
-Atualmente, **focado em aplicar tecnologia para resolver desafios no setor público**, com especial interesse em **eficiência digital** e **impacto social**. Estou explorando ativamente o potencial de **Machine Learning** e **microserviços**.
-
----
-
-### 🛠️ Minhas Competências Técnicas
+### 🛠️ Technical Skills
 
 <div align="center">
   <br>
@@ -34,21 +35,20 @@ Atualmente, **focado em aplicar tecnologia para resolver desafios no setor públ
 
 ---
 
-### 📊 Insights do Meu GitHub
+### 📊 GitHub Insights
 
 <div align="center">
   <a href="https://github.com/josevbrito">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=josevbrito&show_icons=true&theme=tokyonight&count_private=true&layout=compact" height="150"/>
   </a>
   <a href="https://github.com/josevbrito">
-    <img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josevbrito&theme=tokyonight" height="150"/>
+    <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josevbrito&theme=tokyonight" height="150"/>
   </a>
 </div>
 
-
 ---
 
-### 🤝 Conecte-se Comigo
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/josevbrito" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121010.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
