@@ -23,7 +23,7 @@ While I'm not a robot 🤖, I do deliver results.
 
 <div align="center">
   <br>
-  <img align="center" src="https://skillicons.dev/icons?i=vue,js,react,flutter" alt="Frontend Skills" />
+  <img align="center" src="https://skillicons.dev/icons?i=vue,js,react,flutter,nextjs" alt="Frontend Skills" />
   <br><br>
   <img align="center" src="https://skillicons.dev/icons?i=nestjs,php,laravel,django,spring" alt="Backend Skills" />
   <br><br>
