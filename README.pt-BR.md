@@ -180,17 +180,6 @@ Aplicativo mobile premiado (TCC Nota 10) desenvolvido para auxiliar no tratament
 
 <br />
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josevbrito&theme=dark&hide_border=true&background=050505&ring=00DC82&fire=00DC82&currStreakLabel=00DC82&mode=weekly&locale=pt_BR" height="180" />
-
-</div>
-
-
-<br />
-
 ## 📫 Entre em Contato
 
 <div align="center">
