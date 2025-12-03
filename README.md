@@ -178,16 +178,6 @@ Award-winning mobile application (Grade 10 Thesis) developed to assist in lepros
 </tr>
 </table>
 
-<br />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josevbrito&theme=dark&hide_border=true&background=050505&ring=00DC82&fire=00DC82&currStreakLabel=00DC82&mode=weekly" height="180" />
-
-</div>
-
 
 <br />
 
